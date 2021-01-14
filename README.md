@@ -1,4 +1,4 @@
-# 2P4T-clip-diode_selector
+# 2P4T Diode Clip Selector PCB
 PCB for a 2P4T Rotary Switch to select pairs of clipping diodes for guitar effects pedal circuits.
 
 Space saving design which can be mounted directly to the 2P4T switch.
